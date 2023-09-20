@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrieleColapinto
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning software engineering at the Polytechinc University of Bari
+- 🌱 I’m currently learning computer engineering at the Polytechinc University of Bari
 - 💞️ I’m looking to collaborate on the development of amazing games
 - 📫 You can reach me using my email: gabriele.colapinto@gmail.com
 
